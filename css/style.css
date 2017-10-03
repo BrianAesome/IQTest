@@ -1,11 +1,24 @@
 /* Header */
 .large-header {
-  position: relative;
-  width: 100%;
-  overflow: hidden;
-  background-size: cover;
-  background-position: center center;
-  z-index: 1;
+	position: relative;
+	width: 990px;
+	overflow: hidden;
+	background-size: cover;
+	background-position: center center;
+	z-index: 1;
+	height: 340px;
+	  margin: 0 auto;
+
+}
+
+#large-header {
+    background-image: url("imgbg1.png");
+	background-color: blueviolet;
+	width: 990px;
+	height: 340px;
+	margin: 0 auto;
+
+
 }
 
 .main-title {
