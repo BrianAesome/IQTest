@@ -1,25 +1,45 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="activity.com" resolutions="1x" timestamp="1507214427041">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="activity.com" resolutions="1x" timestamp="1507222933076">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3761096409" ref="index"/>
+    <file name="index.css" crc="4093922068" ref="index"/>
+    <file name="untitled-2.css" crc="259243122" ref="untitled-2"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="17924269" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="278381782" ref="index"/>
-    <file name="require.js" crc="3861931657" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2"/>
+    <file name="museutils.js" crc="17924269" ref="index:untitled-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-2"/>
+    <file name="museconfig.js" crc="278381782" ref="index:untitled-2"/>
+    <file name="require.js" crc="3861931657" ref="index:untitled-2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="untitled-2"/>
   </folder>
   <folder name="images">
     <file name="brand4 - copy.jpg" crc="4067803001" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u209-4.png" crc="3824083773" ref="index"/>
-    <file name="u205-4.png" crc="4249884998" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u216.png" crc="3980329706" ref="index"/>
-    <file name="u216-r.png" crc="103776056" ref="index"/>
+    <file name="u205-4.png" crc="19617022" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:untitled-2"/>
+    <file name="u408-4.png" crc="377731596" ref="index"/>
+    <file name="u402_states.png" crc="3833090107" ref="index"/>
+    <file name="u402_states-r.png" crc="3899413361" ref="index"/>
+    <file name="keyboard-www.jpg" crc="4009895196" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="u338_states.png" crc="3968925781" ref="untitled-2"/>
+    <file name="u338_states-r.png" crc="485122429" ref="untitled-2"/>
+    <file name="countries-languages.jpg" crc="434311097" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="u340_states.png" crc="34381560" ref="untitled-2"/>
+    <file name="u340_states-r.png" crc="3869332913" ref="untitled-2"/>
+    <file name="20150818200007-empower-woman-business-happy.jpg" crc="3886976897" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="u342_states.png" crc="407282468" ref="untitled-2"/>
+    <file name="u342_states-r.png" crc="3779046260" ref="untitled-2"/>
   </folder>
-  <file name="index.html" crc="4180330242" seo="true" mt="1507214420453" redirect="true"/>
+  <file name="index.html" crc="3918572423" seo="true" mt="1507222899728" redirect="true"/>
+  <file name="untitled-2.html" crc="402668253" seo="true" mt="1507222548725" redirect="true"/>
 </manifest>
