@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cultures.com" resolutions="1x" timestamp="1507215940547">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="activity.com" resolutions="1x" timestamp="1507298199621">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3998153841" ref="index"/>
+    <file name="index.css" crc="396204663" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -9,27 +9,28 @@
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="278381782" ref="index"/>
     <file name="require.js" crc="3861931657" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="keyboard-www.jpg" crc="4009895196" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u205_states.png" crc="3968925781" ref="index"/>
-    <file name="u205_states-r.png" crc="485122429" ref="index"/>
-    <file name="countries-languages.jpg" crc="434311097" ref="index">
+    <file name="businessman-using-tablet-to-online-connect_1421-103.jpg" crc="480503155" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u252_states.png" crc="34381560" ref="index"/>
-    <file name="u252_states-r.png" crc="3869332913" ref="index"/>
-    <file name="20150818200007-empower-woman-business-happy.jpg" crc="3886976897" ref="index">
+    <file name="u338_states.png" crc="130785494" ref="index"/>
+    <file name="u338_states-r.png" crc="4042465409" ref="index"/>
+    <file name="group-human-pile-tone-white_1150-1685.jpg" crc="32975501" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u258_states.png" crc="407282468" ref="index"/>
-    <file name="u258_states-r.png" crc="3779046260" ref="index"/>
+    <file name="u340_states.png" crc="4221232172" ref="index"/>
+    <file name="u340_states-r.png" crc="4042617769" ref="index"/>
+    <file name="businessman-leader-in-modern-office-with-businesspeople-working_1139-959.jpg" crc="4101483240" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u342_states.png" crc="474159419" ref="index"/>
+    <file name="u342_states-r.png" crc="527527113" ref="index"/>
   </folder>
-  <file name="index.html" crc="4004653702" seo="true" mt="1507215903745" redirect="true"/>
+  <file name="index.html" crc="135170615" seo="true" mt="1507298188222" redirect="true"/>
 </manifest>
