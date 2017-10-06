@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="activity.com" resolutions="1x" timestamp="1507298445988">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="activity.com" resolutions="1x" timestamp="1507298728498">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="314205580" ref="index"/>
+    <file name="index.css" crc="411269242" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -17,20 +17,20 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u338_states.png" crc="130785494" ref="index"/>
-    <file name="u338_states-r.png" crc="4042465409" ref="index"/>
+    <file name="u338_states.png" crc="4225595430" ref="index"/>
+    <file name="u338_states-r.png" crc="324573597" ref="index"/>
     <file name="group-human-pile-tone-white_1150-1685.jpg" crc="32975501" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u340_states.png" crc="4221232172" ref="index"/>
-    <file name="u340_states-r.png" crc="4042617769" ref="index"/>
+    <file name="u340_states.png" crc="223513101" ref="index"/>
+    <file name="u340_states-r.png" crc="4017205722" ref="index"/>
     <file name="businessman-leader-in-modern-office-with-businesspeople-working_1139-959.jpg" crc="4101483240" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u342_states.png" crc="474159419" ref="index"/>
-    <file name="u342_states-r.png" crc="527527113" ref="index"/>
+    <file name="u342_states.png" crc="281334658" ref="index"/>
+    <file name="u342_states-r.png" crc="4069339866" ref="index"/>
   </folder>
-  <file name="index.html" crc="453089593" seo="true" mt="1507298445654" redirect="true"/>
+  <file name="index.html" crc="3847201741" seo="true" mt="1507298720231" redirect="true"/>
 </manifest>
