@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="abt.com" resolutions="1x" timestamp="1517228795866">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="abt.com" resolutions="1x" timestamp="1517386232791">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="241043083" ref="index"/>
-    <file name="nomq_index.css" crc="148979040" ref="index"/>
+    <file name="index.css" crc="51159600" ref="index"/>
+    <file name="nomq_index.css" crc="3954522964" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -20,28 +20,28 @@
     </file>
     <file name="001-notification-u97-r-fr.png" crc="3889776963" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u226.png" crc="4185148193" ref="index"/>
-    <file name="u226-r.png" crc="352404288" ref="index"/>
+    <file name="u226.png" crc="3936280504" ref="index"/>
+    <file name="u226-r.png" crc="25463681" ref="index"/>
     <file name="002-user.png" crc="470686416" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="002-user-u100-r-fr.png" crc="324371155" ref="index"/>
-    <file name="u231.png" crc="444234382" ref="index"/>
+    <file name="u231.png" crc="4247579665" ref="index"/>
     <file name="u231-r.png" crc="514426357" ref="index"/>
     <file name="003-chat.png" crc="180507249" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="003-chat-u103-r-fr.png" crc="3844823403" ref="index"/>
-    <file name="u237.png" crc="4196964901" ref="index"/>
+    <file name="u237.png" crc="3907704967" ref="index"/>
     <file name="u237-r.png" crc="3850920453" ref="index"/>
-    <file name="u2262.png" crc="4131735785" ref="index"/>
-    <file name="u226-r2.png" crc="144041024" ref="index"/>
-    <file name="u2312.png" crc="3795547576" ref="index"/>
+    <file name="u2262.png" crc="224040380" ref="index"/>
+    <file name="u226-r2.png" crc="117157465" ref="index"/>
+    <file name="u2312.png" crc="4114346552" ref="index"/>
     <file name="u231-r2.png" crc="4082271492" ref="index"/>
-    <file name="u2372.png" crc="211816339" ref="index"/>
+    <file name="u2372.png" crc="3963203009" ref="index"/>
     <file name="u237-r2.png" crc="205504103" ref="index"/>
   </folder>
-  <file name="index.html" crc="402580797" seo="true" mt="1517228330510" redirect="true"/>
+  <file name="index.html" crc="4010299725" seo="true" mt="1517386221336" redirect="true"/>
 </manifest>
