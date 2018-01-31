@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="abt.com" resolutions="1x" timestamp="1517224873870">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="abt.com" resolutions="1x" timestamp="1517228795866">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4090177866" ref="index"/>
-    <file name="nomq_index.css" crc="57526470" ref="index"/>
+    <file name="index.css" crc="241043083" ref="index"/>
+    <file name="nomq_index.css" crc="148979040" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -36,12 +36,12 @@
     <file name="003-chat-u103-r-fr.png" crc="3844823403" ref="index"/>
     <file name="u237.png" crc="4196964901" ref="index"/>
     <file name="u237-r.png" crc="3850920453" ref="index"/>
-    <file name="u2262.png" crc="4185148193" ref="index"/>
-    <file name="u226-r2.png" crc="352404288" ref="index"/>
-    <file name="u2312.png" crc="444234382" ref="index"/>
-    <file name="u231-r2.png" crc="514426357" ref="index"/>
-    <file name="u2372.png" crc="4196964901" ref="index"/>
-    <file name="u237-r2.png" crc="3850920453" ref="index"/>
+    <file name="u2262.png" crc="4131735785" ref="index"/>
+    <file name="u226-r2.png" crc="144041024" ref="index"/>
+    <file name="u2312.png" crc="3795547576" ref="index"/>
+    <file name="u231-r2.png" crc="4082271492" ref="index"/>
+    <file name="u2372.png" crc="211816339" ref="index"/>
+    <file name="u237-r2.png" crc="205504103" ref="index"/>
   </folder>
-  <file name="index.html" crc="440153983" seo="true" mt="1517224516825" redirect="true"/>
+  <file name="index.html" crc="402580797" seo="true" mt="1517228330510" redirect="true"/>
 </manifest>
