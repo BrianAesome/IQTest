@@ -424,41 +424,7 @@
 	background:none;
 	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader( src='engine1//bg.png', sizingMethod='scale');
 }
-#wowslider-container1 .ws_bullets  a img{
-	text-indent:0;
-	display:block;
-	bottom:15px;
-	left:-54px;
-	visibility:hidden;
-	position:absolute;
-    border: 5px solid #FFFFFF;
-	max-width:none;
-}
-#wowslider-container1 .ws_bullets a:hover img{
-	visibility:visible;
-}
-
 #wowslider-container1 .ws_bulframe div div{
-	height:48px;
-	overflow:visible;
-	position:relative;
-}
-#wowslider-container1 .ws_bulframe div {
-	left:0;
-	overflow:hidden;
-	position:relative;
-	width:108px;
-	background-color:#FFFFFF;
-}
-#wowslider-container1  .ws_bullets .ws_bulframe{
-	display:none;
-	bottom:18px;
-	margin-left:6px;
-	overflow:visible;
-	position:absolute;
-	cursor:pointer;
-    border: 0px solid #FFFFFF;
-}#wowslider-container1 .ws_bulframe div div{
 	height: auto;
 }
 
