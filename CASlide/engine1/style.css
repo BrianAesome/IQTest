@@ -211,8 +211,7 @@
 	color:transparent;
 }
 #wowslider-container1 .ws_bullets a.ws_selbull{
-	background: #ffffff;
-	color:#ffffff;
+	
 }
 #wowslider-container1 a.ws_next, #wowslider-container1 a.ws_prev {
 	position: absolute;
