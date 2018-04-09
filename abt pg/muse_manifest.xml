@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="abt.com" resolutions="1x" timestamp="1517388228883">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="abt.com" resolutions="1x" timestamp="1523265158631">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="517835438" ref="index"/>
-    <file name="nomq_index.css" crc="147595452" ref="index"/>
+    <file name="index.css" crc="3894646560" ref="index"/>
+    <file name="nomq_index.css" crc="416659025" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,24 +12,10 @@
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="001-notification.png" crc="161044185" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="001-notification-u97-r-fr.png" crc="3889776963" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="002-user.png" crc="470686416" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="002-user-u100-r-fr.png" crc="324371155" ref="index"/>
-    <file name="003-chat.png" crc="180507249" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="003-chat-u103-r-fr.png" crc="3844823403" ref="index"/>
     <file name="u237.png" crc="3907704967" ref="index"/>
     <file name="u237-r.png" crc="3850920453" ref="index"/>
     <file name="u2372.png" crc="3963203009" ref="index"/>
@@ -42,6 +28,24 @@
     <file name="u226_states-r2.png" crc="117157465" ref="index"/>
     <file name="u231_states2.png" crc="4114346552" ref="index"/>
     <file name="u231_states-r2.png" crc="4082271492" ref="index"/>
+    <file name="sd.jpg" crc="4161504119" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sd-u97-r-fr.png" crc="34922633" ref="index"/>
+    <file name="shutterstock_373294603.jpg" crc="390716459" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_373294603-u100-r-fr.png" crc="286706139" ref="index"/>
+    <file name="shutterstock_391669483.jpg" crc="3783268518" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shutterstock_391669483-u103-r-fr.png" crc="106593335" ref="index"/>
+    <file name="sd-u97-fr.jpg" crc="527484685" ref="index"/>
+    <file name="sd-u97-r-fr2.png" crc="3778554469" ref="index"/>
+    <file name="shutterstock_373294603-u100-fr.jpg" crc="82475277" ref="index"/>
+    <file name="shutterstock_373294603-u100-r-fr2.png" crc="100430872" ref="index"/>
+    <file name="shutterstock_391669483-u103-fr.jpg" crc="210440340" ref="index"/>
+    <file name="shutterstock_391669483-u103-r-fr2.png" crc="219396452" ref="index"/>
   </folder>
-  <file name="index.html" crc="178842787" seo="true" mt="1517388218993" redirect="true"/>
+  <file name="index.html" crc="343393177" seo="true" mt="1523265157971" redirect="true"/>
 </manifest>
