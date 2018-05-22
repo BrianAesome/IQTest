@@ -1,0 +1,39 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="demo.com" resolutions="1x" timestamp="1526981925202">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="51206273" ref="index"/>
+    <file name="nomq_index.css" crc="3914874839" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="afrisam-logo.png" crc="419676257" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u127-4.png" crc="259469501" ref="index"/>
+    <file name="afrisam-product-upgrade-pic-01.png" crc="401626256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u141-4.png" crc="4294868401" ref="index"/>
+    <file name="u134-4.png" crc="3776199578" ref="index"/>
+    <file name="u127-42.png" crc="296572623" ref="index"/>
+    <file name="u141-42.png" crc="3862187219" ref="index"/>
+    <file name="u134-42.png" crc="3828905463" ref="index"/>
+    <file name="u127-43.png" crc="3844158194" ref="index"/>
+    <file name="u141-43.png" crc="437430103" ref="index"/>
+    <file name="u134-43.png" crc="136109013" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3996801776" seo="true" mt="1526981910348" redirect="true"/>
+</manifest>
